@@ -24,7 +24,7 @@ pip install numpy matplotlib scikit-learn
 
 ## 🚀 How to Run
 1) Clone this repository:
-git clone https://github.com/yourusername/regression-models.git
+git clone https://github.com/Siddaraju04/Regression_In_ML.git
 cd regression-models
 
 2) Open Jupyter Notebook:
